@@ -33,7 +33,7 @@ if(isset($_POST['submit_placement'])) {
     <title>Document</title>
 </head>
 <body>
-<a href="mainpage.html">Exit</a>
+<a href="index.html">Exit</a>
 </body>
 </html>
 
