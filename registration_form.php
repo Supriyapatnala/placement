@@ -241,7 +241,7 @@ if(isset($_POST['submit'])){
                 <option value="EEE">EEE</option>
             </select>
             <input type="submit" name="submit" value="REGISTER" class="form-btn">
-            <p>Already have an account? <a href="login_form.php">Login</a> <a href="mainpage.html">Exit</a></p>
+            <p>Already have an account? <a href="login_form.php">Login</a> <a href="index.html">Exit</a></p>
         </form>
     </div>
 </body>
