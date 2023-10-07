@@ -30,7 +30,7 @@ if(!isset($_SESSION['user_name'])){
                 <input type="text" id="student_id" name="student_id" required>
                 <input type="submit" value="View Placement Details" class="btn">
             </form>
-            <a href="mainpage.html" class="btn">Logout</a>
+            <a href="index.html" class="btn">Logout</a>
         </div>
     </div>
 </body>
