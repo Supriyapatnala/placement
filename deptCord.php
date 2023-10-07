@@ -81,7 +81,7 @@ if(!isset($_SESSION['deptCord_name'])){
         <div class="content">
             <h3 style="color: white;">Hello, <?php echo $_SESSION['deptCord_name']?></h3>
             <h1 style="color: white;">Welcome to <span>Department Coordinator Profile</span></h1>
-            <a href="mainpage.html" class="btn">Logout</a>
+            <a href="index.html" class="btn">Logout</a>
             <button id="placementDetailsButton" class="btn">Placement Details</button>
         </div>
     </div>
