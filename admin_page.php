@@ -156,7 +156,7 @@ if(!isset($_SESSION['admin_name'])){
             <form action="upload_results.php" method="post" enctype="multipart/form-data">
                 <input type="file" name="placement_file" required>
                 <input type="submit" name="submit_placement" value="Submit Placement" class="btn">
-                <a href="mainpage.html" class="btn">Logout</a>
+                <a href="index.html" class="btn">Logout</a>
             </form>
         </div>
     </div>
